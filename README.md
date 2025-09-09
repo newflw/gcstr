@@ -1,0 +1,2 @@
+# gcstr
+Generalized CSTR
