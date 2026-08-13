@@ -1,6 +1,8 @@
 
 # Generalized CSTR
 
+This repository contains the code that was used in the Generalized CSTR: Multi-Dimensional Representations for Event-Based Vision article published in IEEE Access 2026 #14 (https://ieeexplore.ieee.org/document/11622440).
+
 ## How to Install
 
 Install the libraries listed in requirements.txt
@@ -226,6 +228,25 @@ options:
                         Dimensions to use
   --dithering {nodithering,uniform}
                         Dithering method for augmentation
+
+```
+
+# Citation
+
+Please cite this work like this:
+
+```
+@ARTICLE{
+  nyblom2026gcstr,
+  author={Nyblom, Per and Gustafsson, David and Wilkinson, Tomas},
+  journal={IEEE Access}, 
+  title={Generalized CSTR: Multi-Dimensional Representations for Event-Based Vision}, 
+  year={2026},
+  volume={14},
+  number={},
+  pages={115574-115595},
+  doi={10.1109/ACCESS.2026.3716350}
+}
 
 ```
 
